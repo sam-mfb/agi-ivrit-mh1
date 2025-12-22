@@ -1,0 +1,184 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "gameName": "",
+    "contentType": "vocabulary",
+    "sourceLanguage": "en",
+    "targetLanguage": "",
+    "extractedDate": "2025-12-22T15:09:28.773Z",
+    "totalWordGroups": 18
+  },
+  "vocabulary": [
+    {
+      "wordNumber": 0,
+      "word": "i",
+      "originalSynonyms": [],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 1,
+      "word": "anyword",
+      "originalSynonyms": [
+        "zzzxydd"
+      ],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 2,
+      "word": "jones",
+      "originalSynonyms": [],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 3,
+      "word": "harold",
+      "originalSynonyms": [
+        "harry"
+      ],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 4,
+      "word": "jimbo",
+      "originalSynonyms": [],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 5,
+      "word": "harv",
+      "originalSynonyms": [
+        "harvey"
+      ],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 6,
+      "word": "osborne",
+      "originalSynonyms": [],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 7,
+      "word": "ann",
+      "originalSynonyms": [
+        "anna",
+        "anne"
+      ],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 8,
+      "word": "phil",
+      "originalSynonyms": [
+        "philip",
+        "philippe",
+        "phillip",
+        "phillipe",
+        "philup"
+      ],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 9,
+      "word": "cook",
+      "originalSynonyms": [],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 10,
+      "word": "lou",
+      "originalSynonyms": [
+        "louie",
+        "louis"
+      ],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 11,
+      "word": "redman",
+      "originalSynonyms": [],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 12,
+      "word": "reno",
+      "originalSynonyms": [],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 13,
+      "word": "davis",
+      "originalSynonyms": [],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 14,
+      "word": "ucucc",
+      "originalSynonyms": [],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 15,
+      "word": "y",
+      "originalSynonyms": [
+        "yes"
+      ],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 16,
+      "word": "bye",
+      "originalSynonyms": [
+        "exit",
+        "leave",
+        "quit",
+        "stop"
+      ],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    },
+    {
+      "wordNumber": 17,
+      "word": "note",
+      "originalSynonyms": [
+        "notes"
+      ],
+      "translatedSynonyms": [],
+      "wordType": "",
+      "notes": ""
+    }
+  ]
+}

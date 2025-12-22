@@ -1,0 +1,196 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "gameName": "",
+    "contentType": "objects",
+    "sourceLanguage": "en",
+    "targetLanguage": "",
+    "extractedDate": "2025-12-22T15:09:28.773Z",
+    "totalObjects": 26,
+    "maxAnimatedObjects": 16
+  },
+  "objects": [
+    {
+      "index": 0,
+      "original": "One Keycard",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 1,
+      "original": "Two Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 2,
+      "original": "Three Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 3,
+      "original": "Four Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 4,
+      "original": "Five Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 5,
+      "original": "Six Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 6,
+      "original": "Seven Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 7,
+      "original": "Eight Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 8,
+      "original": "Nine Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 9,
+      "original": "Ten Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 10,
+      "original": "Eleven Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 11,
+      "original": "Twelve Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 12,
+      "original": "Thirteen Keycards",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 13,
+      "original": "Medallion",
+      "translation": "",
+      "startingRoom": 128,
+      "notes": ""
+    },
+    {
+      "index": 14,
+      "original": "MAD",
+      "translation": "",
+      "startingRoom": 117,
+      "notes": ""
+    },
+    {
+      "index": 15,
+      "original": "Data Card",
+      "translation": "",
+      "startingRoom": 129,
+      "notes": ""
+    },
+    {
+      "index": 16,
+      "original": "Module B",
+      "translation": "",
+      "startingRoom": 135,
+      "notes": ""
+    },
+    {
+      "index": 18,
+      "original": "Crowbar",
+      "translation": "",
+      "startingRoom": 136,
+      "notes": ""
+    },
+    {
+      "index": 19,
+      "original": "Stuffed Orb",
+      "translation": "",
+      "startingRoom": 129,
+      "notes": ""
+    },
+    {
+      "index": 20,
+      "original": "Key",
+      "translation": "",
+      "startingRoom": 106,
+      "notes": ""
+    },
+    {
+      "index": 22,
+      "original": "Module A",
+      "translation": "",
+      "startingRoom": 111,
+      "notes": ""
+    },
+    {
+      "index": 23,
+      "original": "Module C",
+      "translation": "",
+      "startingRoom": 113,
+      "notes": ""
+    },
+    {
+      "index": 24,
+      "original": "Module D",
+      "translation": "",
+      "startingRoom": 150,
+      "notes": ""
+    },
+    {
+      "index": 25,
+      "original": "Badges",
+      "translation": "",
+      "startingRoom": 145,
+      "notes": ""
+    },
+    {
+      "index": 26,
+      "original": "Stuffed Orbs",
+      "translation": "",
+      "startingRoom": 129,
+      "notes": ""
+    },
+    {
+      "index": 27,
+      "original": "Badge",
+      "translation": "",
+      "startingRoom": 145,
+      "notes": ""
+    }
+  ]
+}

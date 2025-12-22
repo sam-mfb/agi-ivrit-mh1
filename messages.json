@@ -6665,7 +6665,7 @@
       "logicFile": "153.agilogic",
       "messageNumber": 1,
       "original": "Press <ENTER> to continue.",
-      "translation": "",
+      "translation": "לחץ <ENTER> כדי להמשיך.",
       "notes": "",
       "placeholders": []
     },
@@ -6673,7 +6673,7 @@
       "logicFile": "153.agilogic",
       "messageNumber": 2,
       "original": "Exit Game (Y/N)? ",
-      "translation": "",
+      "translation": "לצאת מהמשחק (Y/N)? ",
       "notes": "",
       "placeholders": []
     },
@@ -6689,7 +6689,7 @@
       "logicFile": "153.agilogic",
       "messageNumber": 4,
       "original": "_",
-      "translation": "",
+      "translation": "_",
       "notes": "",
       "placeholders": []
     },
@@ -6697,7 +6697,7 @@
       "logicFile": "153.agilogic",
       "messageNumber": 5,
       "original": "Press <ENTER> to continue.",
-      "translation": "",
+      "translation": "לחץ <ENTER> כדי להמשיך.",
       "notes": "",
       "placeholders": []
     },
@@ -6705,7 +6705,7 @@
       "logicFile": "153.agilogic",
       "messageNumber": 6,
       "original": "The Orbs invaded New York",
-      "translation": "",
+      "translation": "הכדורים פלשו לניו יורק",
       "notes": "",
       "placeholders": []
     },
@@ -6713,7 +6713,7 @@
       "logicFile": "153.agilogic",
       "messageNumber": 7,
       "original": "in 2002...",
-      "translation": "",
+      "translation": "ב-2002...",
       "notes": "",
       "placeholders": []
     },
@@ -6721,7 +6721,7 @@
       "logicFile": "153.agilogic",
       "messageNumber": 8,
       "original": "2 years later...",
-      "translation": "",
+      "translation": "שנתיים לאחר מכן...",
       "notes": "",
       "placeholders": []
     },

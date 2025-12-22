@@ -1,0 +1,23 @@
+--- project/tmp/src/logic/159.agilogic	2025-12-22 15:30:08.113523006 +0000
++++ /tmp/159.agilogic.modified	2025-12-22 18:09:01.693305003 +0000
+@@ -86,7 +86,7 @@
+ Address236:
+ 
+ if (f151 && (v42 < 34)) {
+-  // INVALID GOTO: target address 443 (mid-instruction)
++  player.control(); accept.input(); set(f5); call(90); new.room(153);
+   put.v(v13, v151);
+   set(f154);
+   set(f15);
+@@ -110,9 +110,9 @@
+       if (((v19 > 96)) && ((v19 < 123))) {
+         v19 -= 32;
+       }
+-    
++
+     Address337:
+-    
++
+       if ((v19 > 64) && (v19 < 91)) {
+         v97 = v19;
+         v97 += 85;
